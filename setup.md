@@ -21,10 +21,10 @@ If you already have PostgreSQL installed, get PgAdminIII:
 2. Add a server:
   - Object >> Create >> Server...
   - Fill in the following info & click Save
-  - General Tab
+  - General Tab  
    **Name:** `<your-name>-ga`  
    **Server group:** Servers  
-  - Connection Tab
+  - Connection Tab  
    **Host:** given in class  
    **Port:** 5432  
    **Maintenance DB:** given in class  
