@@ -15,7 +15,7 @@ If you already have PostgreSQL installed, get PgAdminIII:
 3. Under `Files`, select the middle option, then "Agree"
 
 
-#### 2. INITIALIZATION (in class)
+### 2. INITIALIZATION (in class)
 
 1. Open pgAdmin 4
 2. Add a server:
