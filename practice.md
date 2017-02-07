@@ -1,7 +1,7 @@
 ## Practice
 
 ### Example 1
-* Select `iowa_liquor_sales_database`
+* Select a database (e.g. `iowa_liquor_sales_database`)
 * Drill down to see the tables in this database: Schemas >> public >> Tables
 
 **Question:** What tables are there?
@@ -13,19 +13,6 @@
 and hit the lightning bolt. (e.g. `category_name`)
 
 **Question:** What are the results? So what does this mean that the query statement mean? Note syntax is important.
-
-```
-MISC. AMERICAN CORDIALS & LIQUEURS
-MISC. AMERICAN CORDIALS & LIQUEURS
-PEACH BRANDIES
-SCOTCH WHISKIES
-FLAVORED VODKA
-STRAIGHT BOURBON WHISKIES
-MISC. AMERICAN CORDIALS & LIQUEURS
-MISCELLANEOUS BRANDIES
-IMPORTED VODKA
-FLAVORED RUM
-```
 
 ### Example 3
 * Now type into Query-1: 
