@@ -21,14 +21,21 @@ If you already have PostgreSQL installed, get PgAdminIII:
 2. Add a server:
   * Object >> Create >> Server...
   * Fill in the following info & click Save
-General Tab
-   **Name:** `<your-name>-ga`
-   **Server group:** Servers
-Connection Tab
-   **Host:** given in class
-   **Port:** 5432
-   **Maintenance DB:** given in class
-   **Username:** given in class
-   **Password:** given in class
+  General Tab
+
+   **Name:** `<your-name>-ga`  
+
+   **Server group:** Servers  
+  Connection Tab
+
+   **Host:** given in class  
+   
+   **Port:** 5432  
+
+   **Maintenance DB:** given in class  
+   
+   **Username:** given in class  
+   
+   **Password:** given in class  
 3. Click on the databases with X’s to connect to them.
 4. Click on a database under <your-name>-ga, then select Tools >> Query Tool.
