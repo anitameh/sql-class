@@ -6,6 +6,6 @@ This github repo contains documentation for the HBS 2018 Section I SQL tutorial.
 
 2. Practice problems: [practice.md](https://github.com/anitameh/sql-class/blob/master/practice.md)
 
-3. Shortlist of useful [resources: resources.md](https://github.com/anitameh/sql-class/blob/master/resources.md)
+3. Shortlist of useful resources: [resources.md](https://github.com/anitameh/sql-class/blob/master/resources.md)
 
 h/t General Assembly, Jet.com.
