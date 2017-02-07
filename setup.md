@@ -31,4 +31,4 @@ If you already have PostgreSQL installed, get PgAdminIII:
    **Username:** given in class  
    **Password:** given in class  
 3. Click on the databases with X’s to connect to them.
-4. Click on a database under <your-name>-ga, then select Tools >> Query Tool.
+4. Click on a database under `<your-name>-ga`, then select Tools >> Query Tool.
