@@ -1,4 +1,4 @@
-Installation & Getting Set Up
+## Installation & Getting Set Up
 
 ### 1. INSTALLATION
 
